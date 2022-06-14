@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.1",
-  "ReleaseNotes": "Wilson",
+  "Version": "1.0.2",
+  "ReleaseNotes": "operadoras top🚀🚀🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/ever111/main/Joker111",
   "Sms": "h1",
   "EmailFeedback": "",
@@ -24,7 +24,7 @@
  "Networks": [
 
  {
-      "Name": "🟣VIVO 1  ",
+      "Name": "🟣VIVO 1  🚀",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -34,7 +34,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🟣VIVO 2 ",
+      "Name": "🟣VIVO 2 🚀",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -54,7 +54,7 @@
       "Info": "Tlsws"
     },
     {
-    "Name": "🔵TIM 1 ",
+    "Name": "🔵TIM 1 ⚙️",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "static.r4you.co",
@@ -64,7 +64,7 @@
       "Info": "Tlsws"
     },
         {
-   "Name": "🔵TIM 2",
+   "Name": "🔵TIM 2🚀",
    "FLAG": "tim",
    "Payload": "GET ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
    "SNI": "static.r4you.co",
@@ -93,5 +93,35 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
+ { 
+       "Name": "🔴CLARO 1🚀", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://api.new.livestream.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "api.new.livestream.com", 
+       "TlsIP": "api.new.livestream.com", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+        }, 
+     { 
+       "Name": "🔴CLARO 2 🚀", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://api.new.livestream.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "api.new.livestream.com", 
+       "TlsIP": "api.new.livestream.com", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+        }, 
+     { 
+       "Name": "🔴CLARO 3🚀🚀", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
+       "SNI": "icanhazip.com", 
+       "TlsIP": "icanhazip.com", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+    },
   ]
 }
