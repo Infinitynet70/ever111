@@ -112,16 +112,7 @@
        "ProxyPort": "", 
        "Info": "Tlsws" 
         }, 
-     { 
-       "Name": "🔴CLARO 3🚀🚀", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
-       "SNI": "icanhazip.com", 
-       "TlsIP": "icanhazip.com", 
-       "ProxyIP": "", 
-       "ProxyPort": "", 
-       "Info": "Tlsws" 
-    },
+     
   ]
 }
 
